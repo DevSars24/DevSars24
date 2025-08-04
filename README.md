@@ -14,7 +14,7 @@
 <h3 align="center">🚀 Self-taught Developer | 💻 MERN Stack | 📚 System Design | 🧠 Learning by Building</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=460&lines=2nd+Year+CSE+Student+%40+IIIT+Bhagalpur;Full-Stack+MERN+Developer;Building+Real+World+Projects;Loves+Low+Level+System+Design;AI+%2F+ML+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=460&lines=CSE+Student+%40+IIIT+Bhagalpur;Full-Stack+MERN+Developer;Building+Real+World+Projects;Loves+Low+Level+System+Design;AI+%2F+ML+Explorer" alt="Typing SVG" />
 </p>
 
 ---
