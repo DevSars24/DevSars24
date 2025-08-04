@@ -8,9 +8,6 @@
 📫 Reach me at: saurabhsingh100605@gmail.com
 🌐 Portfolio: [https://sars24.netlify.app/]
 
-
-
-<h1 align="center">Hi 👋, I'm Saurabh Singh Rajput</h1>
 <h3 align="center">🚀 Self-taught Developer | 💻 MERN Stack | 📚 System Design | 🧠 Learning by Building</h3>
 
 <p align="center">
