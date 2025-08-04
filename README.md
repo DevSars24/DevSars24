@@ -21,7 +21,7 @@
 
 ### 🧠 About Me
 
-- 🎓 2nd Year B.Tech CSE @ IIIT Bhagalpur  
+- 🎓  B.Tech CSE @ IIIT Bhagalpur  
 - 🧰 Self-taught programmer passionate about building useful tech  
 - 🔨 Currently working on: MERN stack projects & learning System Design  
 - 🚀 Inspired by creators like Steve Jobs, aiming to solve real-world problems  
