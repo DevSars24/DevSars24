@@ -54,14 +54,22 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats (Updated)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevSars24&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=DevSars24&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevSars24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=DevSars24&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSars24&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSars24&layout=compact&theme=tokyonight" width="48%"/>
 </p>
+
+### 📈 Weekly Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevSars24&theme=tokyo-night" />
+</p>
+
 
 ---
 
