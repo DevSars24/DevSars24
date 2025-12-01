@@ -2,41 +2,31 @@
 
 🎓 2nd-year CSE Student at IIIT Bhagalpur  
 💡 Self-taught Programmer | MERN Stack | AI/ML | Blockchain  
-🚀 Building real-world products using React, Node, and MongoDB  
-📚 Passionate about System Design, Clean Architecture & Scalable Apps  
+🚀 Building real-world projects with React, Node, and MongoDB  
+📚 Passionate about system design, clean code, and product building
 
-📫 Contact: **saurabhsingh100605@gmail.com**  
-🌐 Portfolio: **https://sars24.netlify.app**
-
----
+📫 Reach me at: saurabhsingh100605@gmail.com
+🌐 Portfolio: [https://sars24.netlify.app/]
 
 <h3 align="center">🚀 Self-taught Developer | 💻 MERN Stack | 📚 System Design | 🧠 Learning by Building</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=480&lines=CSE+Student+%40+IIIT+Bhagalpur;Full-Stack+MERN+Developer;Building+Real+World+Projects;Loves+System+Design;AI+%2F+ML+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=460&lines=CSE+Student+%40+IIIT+Bhagalpur;Full-Stack+MERN+Developer;Building+Real+World+Projects;Loves+Low+Level+System+Design;AI+%2F+ML+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧑‍💻 Developer Vibes (Tony Stark Mode Activated)
+### 🧠 About Me
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/2e/3d/bf/2e3dbf318428e1b9230e6505d72e6842.gif" width="75%" />
-</p>
-
----
-
-## 🧠 About Me
-
-- 🎓 B.Tech CSE @ IIIT Bhagalpur  
-- 🧰 Self-taught dev obsessed with problem-solving  
-- 🔭 Currently building: Full-stack MERN apps + System Design  
-- 🚀 Inspired by Steve Jobs; want to build impactful products  
-- 💡 Believe in learning by building, not memorizing  
+- 🎓  B.Tech CSE @ IIIT Bhagalpur  
+- 🧰 Self-taught programmer passionate about building useful tech  
+- 🔨 Currently working on: MERN stack projects & learning System Design  
+- 🚀 Inspired by creators like Steve Jobs, aiming to solve real-world problems  
+- 💡 Love working on real projects more than just reading about them  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -53,65 +43,47 @@
 
 ---
 
-## 📘 Currently Learning
+### 📘 Currently Learning
 
-- 🧱 Low-Level + High-Level System Design  
-- 🔗 API Design Patterns & Authentication  
-- 🤖 Intro to ML Concepts  
-- 🔐 Security, JWT, Middlewares  
-
----
-
-## 📊 GitHub Stats (Updated)
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=DevSars24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-    width="48%"
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=DevSars24&theme=tokyonight" 
-    width="48%"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSars24&layout=compact&theme=tokyonight" 
-    width="48%"
-  />
-</p>
+- 🧱 **System Design (Low-Level & High-Level)**  
+- 🔗 **API Design Patterns & Authentication**  
+- 🤖 Basics of **AI/ML**  
+- 🔐 Security & **JWT/Auth Middleware**
 
 ---
 
-## 📈 Weekly Contribution Graph
+### 📊 GitHub Stats
 
+### 📊 GitHub Stats (Updated)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevSars24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=DevSars24&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSars24&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+### 📈 Weekly Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevSars24&theme=tokyo-night" />
 </p>
 
----
-
-## 📦 Projects Worth Exploring
-
-- 🔐 **MERN Auth System:**  
-  https://github.com/DevSars24/MERN-Authentication-Authorization  
-
-- 🏥 **Hospital Management System:**  
-  https://github.com/DevSars24/Hospital-management-system  
-
-- 💸 **Razorpay Payment Gateway Integration:**  
-  https://github.com/DevSars24/payment-gateway  
-
-- 🏦 **Banking System CLI:**  
-  https://github.com/DevSars24/banking-system  
-
-- 🌐 **Portfolio Front Page (React):**  
-  https://github.com/DevSars24/portfolio-front-page-REACT-  
 
 ---
 
-## 📫 Let’s Connect
+### 📦 Projects Worth Exploring
+
+- 🔐 [MERN Authentication & Authorization](https://github.com/DevSars24/MERN-Authentication-Authorization)
+- 🏥 [Hospital Management System](https://github.com/DevSars24/Hospital-management-system)
+- 💸 [Razorpay Payment Gateway](https://github.com/DevSars24/payment-gateway)
+- 🏦 [Banking System CLI](https://github.com/DevSars24/banking-system)
+- 🌐 [Portfolio Front Page - React](https://github.com/DevSars24/portfolio-front-page-REACT-)
+
+---
+
+### 📫 Let’s Connect
 
 <p align="left">
   <a href="mailto:saurabhsingh100605@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -125,4 +97,5 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
+
 
