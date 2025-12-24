@@ -1,4 +1,4 @@
-# Hi 👋, I'm Saurabh Singh Rajput
+# Hi 👋, I'm Saurabh Singh 
 
 🎓 2nd-year CSE Student at IIIT Bhagalpur  
 💡 Self-taught Programmer | MERN Stack | AI/ML | Blockchain  
