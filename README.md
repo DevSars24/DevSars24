@@ -6,7 +6,7 @@
 📚 Passionate about system design, clean code, and product building  
 
 📫 Reach me at: **saurabhsingh100605@gmail.com**  
-🌐 Portfolio: **devsphere-ruddy.vercel.app**
+🌐 Portfolio: **https://devsphere-ruddy.vercel.app/**
 
 ---
 
