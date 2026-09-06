@@ -1,6 +1,6 @@
 # Hi 👋, I'm Saurabh Singh 
 
-🎓 2nd-year CSE Student at IIIT Bhagalpur  
+🎓 3rd year CSE Student at IIIT Bhagalpur  
 💡 Self-taught Programmer | MERN Stack | AI/ML | Blockchain  
 🚀 Building real-world projects with React, Node, and MongoDB  
 📚 Passionate about system design, clean code, and product building  
